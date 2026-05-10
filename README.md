@@ -58,6 +58,7 @@ python main.py
 ## OAuth Setup
 
 A valid `credentials.json` file from Google Cloud OAuth is required.
+The valid `credentials.json` is provided and needed to be downloaded.
 
 ## Disclaimer
 
